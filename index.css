@@ -1,0 +1,10 @@
+.ans {
+    cursor: pointer;
+}
+
+footer {
+    padding-top: 10px;
+    margin-top: 62vh;
+    background-color: rgb(104, 185, 104);
+    height: 49px;
+}
